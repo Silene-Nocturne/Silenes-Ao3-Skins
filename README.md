@@ -1,5 +1,3 @@
-#Silene Nocturnal's Ao3 skins
-
 Welcome to Silene's Ao3 Skins
 
 The skin coding are from bounckery on Tumblr [ https://www.tumblr.com/archivalcordial ]
